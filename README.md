@@ -1,4 +1,5 @@
-Code Alpha Internship Projects
+**Code Alpha Internship Projects**
+
 This repository contains projects completed during my data science internship at Code Alpha. The tasks include:
 
 Titanic Classification: Implemented a machine learning model to predict the survival of passengers on the Titanic.
